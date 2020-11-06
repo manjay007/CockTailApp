@@ -1,6 +1,6 @@
 # fluttercocktail
 
-This is a flutter Cocktail app with with hero animations, beautiful UI and network call.
+This is a flutter Cocktail app with hero animations, beautiful UI and network call.
 
 ## Demo
 

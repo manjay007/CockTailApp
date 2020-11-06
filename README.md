@@ -1,6 +1,10 @@
 # fluttercocktail
 
-A new Flutter project.
+This is a flutter Cocktail app with with hero animations, beautiful UI and network call.
+
+## Demo
+
+<img src="demo.gif" height="500em" />
 
 ## Getting Started
 
